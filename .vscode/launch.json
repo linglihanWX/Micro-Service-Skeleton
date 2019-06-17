@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GatewayApplication",
+            "request": "launch",
+            "mainClass": "com.microservice.skeleton.gateway.GatewayApplication",
+            "projectName": "Micro-Service-Skeleton-Gateway"
+        }
+    ]
+}
