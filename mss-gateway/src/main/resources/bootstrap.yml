@@ -2,7 +2,7 @@ server:
     port: 9030
 spring:
     application:
-        name: mss-gateway
+        name: mss-gateway1
     cloud:
         nacos:
             config:
